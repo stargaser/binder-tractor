@@ -1,7 +1,6 @@
 numpy
 fitsio
 matplotlib
-cairo
 jpeg
 astropy
 scipy
