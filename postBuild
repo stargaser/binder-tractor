@@ -1,0 +1,16 @@
+cd /home/jovyan
+mkdir code
+cd code
+git clone https://github.com/dstndstn/astrometry.net.git
+cd astrometry.net
+make
+make py
+python setup.py install
+export PYTHONPATH=$PWD:$PYTHONPATH
+
+cd ..
+git clone https://github.com/dstndstn/tractor.git
+cd tractor
+make
+python setup.py install
+export PYTHONPATH=$PWD:$PYTHONPATH

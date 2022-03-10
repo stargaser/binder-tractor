@@ -1,0 +1,16 @@
+numpy
+pip
+cfitsio
+fitsio
+pkg-config
+matplotlib
+cairo
+jpeg
+astropy
+scipy
+seaborn
+swig
+astroquery
+reproject
+scikit-learn
+nbgitpuller
