@@ -1,6 +1,5 @@
 numpy
 fitsio
-pkg-config
 matplotlib
 cairo
 jpeg
