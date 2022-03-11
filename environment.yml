@@ -1,20 +1,24 @@
-    numpy
-    pip
-    cfitsio
-    fitsio
-    pkg-config
-    matplotlib
-    cairo
-    jpeg
-    astropy
-    scipy
-    seaborn
-    pandas
-    statsmodels
-    scikit-image
-    pyarrow
-    swig
-    astroquery
-    reproject
-    scikit-learn
-    nbgitpuller
+channels:
+  - astropy
+  - conda-forge
+dependencies:
+  - numpy
+  - pip
+  - cfitsio
+  - fitsio
+  - pkg-config
+  - matplotlib
+  - cairo
+  - jpeg
+  - astropy
+  - scipy
+  - seaborn
+  - pandas
+  - statsmodels
+  - scikit-image
+  - pyarrow
+  - swig
+  - astroquery
+  - reproject
+  - scikit-learn
+  - nbgitpuller
