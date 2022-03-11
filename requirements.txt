@@ -1,7 +1,6 @@
 numpy
 fitsio
 matplotlib
-jpeg
 astropy
 scipy
 seaborn
