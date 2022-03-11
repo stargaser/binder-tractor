@@ -1,0 +1,24 @@
+channels:
+  - astropy
+  - conda-forge
+dependencies:
+  - numpy
+  - cfitsio
+  - fitsio
+  - pkg-config
+  - matplotlib
+  - cairo
+  - jpeg
+  - pillow
+  - astropy
+  - scipy
+  - seaborn
+  - pandas
+  - statsmodels
+  - scikit-image
+  - pyarrow
+  - swig
+  - astroquery
+  - reproject
+  - scikit-learn
+  - nbgitpuller
