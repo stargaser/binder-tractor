@@ -4,7 +4,11 @@ matplotlib
 astropy
 scipy
 seaborn
+pandas
+pyarrow
+statsmodels
 astroquery
 reproject
 scikit-learn
+scikit-image
 nbgitpuller
