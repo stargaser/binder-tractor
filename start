@@ -1,0 +1,5 @@
+
+pip install -U reproject
+
+cd
+git clone https://github.com/fornax-navo/fornax-navo-notebooks
